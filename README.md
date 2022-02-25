@@ -1,2 +1,2 @@
 # Scientific-Calculator
-Scientific Calculator Made using HTML, CSS, JavaScript and IQuery.
+Scientific Calculator Made using HTML, CSS, JavaScript and JQuery.
